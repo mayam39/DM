@@ -13,8 +13,8 @@ Un terminal permet à un utilisateur de communiquer avec un ordinateur, un serve
 
 - Pour faire un tableau :
 
-" | colonne 1 | colonne 2 |
-  | ---------- | -------- |
+" | colonne 1 | colonne 2 |  
+  | ---------- | -------- |  
   | texte | texte | "
   
 | colonne 1 | colonne 2 |

@@ -35,7 +35,7 @@ Un terminal permet à un utilisateur de communiquer avec un ordinateur, un serve
 - PX correspond à Pixel. C'est une unité de mesure de la définition d'une image numérique. 
 - VW correspond à View Width. C'est une unité qui correspond à la taille de l'écran dans sa largeur. 100vw étant 100% de la taille de l'écran dans sa largeur.
 - EM correspond à la taille relative à l'élément parent. C'est à dire que EM défini la taille d'un élément proportionnellement à la taillé de l'élément parent.`
-- 
+
 ## Trouvez une API et expliquez-moi à quoi sert-elle et donnez-moi le lien de sa documentation
 
 **Trefle** est une API qui permet de récupérer des informations sur le monde végétal via des requêtes.
